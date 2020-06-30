@@ -59,6 +59,10 @@
     <DataWriteAllFilesInOneDirectory>True</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
   <DataFileSet>
-    <Count>0</Count>
+    <Count>4</Count>
+    <DataFile>dbo.CATEGORIA_Data.sql</DataFile>
+    <DataFile>dbo.UBIGEO_Data.sql</DataFile>
+    <DataFile>dbo.PERSONA_Data.sql</DataFile>
+    <DataFile>dbo.PRODUCTO_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
